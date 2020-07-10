@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- I'm a postgraduate student focusing on the usage of computational methods in biology and medical science, especially the possible computational procedure designed for disease related problems.
+- I'm currently a postgraduate student interested in the usage of computational methods in biology and medical science, especially the possible computational procedure designed for disease related problems.
+- I'm currently a coder familiar with `R` and `Python` and implement them in data analysis procedure
+- I'm currently learning the machine learning and deep learning methods and their usage in biology and medical science area
+
 <!--
 **Jihong-Tang/Jihong-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
