@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- I'm a postgraduate student focusing on the usage of computational methods in biology and medical science, especially the possible computational procedure designed for disease related problems.
 <!--
 **Jihong-Tang/Jihong-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
